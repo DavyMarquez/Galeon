@@ -16,7 +16,12 @@ public class ShowGameMenu : MonoBehaviour
         imgr.RegisterReturn(OnReturnPressed);
     }
 
-    protected void OnReturnPressed()
+    public void OnEnable()
+    {
+        m_type = TPushSceneType.PUSH_SCENE;
+    }
+
+    public void OnReturnPressed()
     {
         //muestro el menu..
         SceneMgr smgr = GameMgr.GetInstance().GetServer<SceneMgr>();
