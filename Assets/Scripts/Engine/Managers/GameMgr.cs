@@ -141,8 +141,8 @@ public class GameMgr
             //SceneMgr: Gestiona la carga de escenas... 
             //TODO (SceneMgr)  AddServer<SceneMgr>();
             AddServer<SceneMgr>();
-            //SceneMgr smAux = m_servers.GetComponent<SceneMgr>();
-            //m_spawnerMgr = new SpawnerMgr(smAux);
+            SceneMgr smAux = m_servers.GetComponent<SceneMgr>();
+            m_spawnerMgr = new SpawnerMgr(smAux);
 
 
             //TODO (InputMgr)
@@ -150,8 +150,8 @@ public class GameMgr
             inputMgr.Configure(0, true);
 
         }
-
-        //TODO :  (SpawnerMgr)
+        
+        
 
     }
 	

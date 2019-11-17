@@ -8,11 +8,12 @@ public class Destroyable : MonoBehaviour
 {
  
 	public bool m_desactive = true;
+    private SpawnerMgr m_spawnerMgr;
 
-	//Mensaje
-	void DestroyGameObject()
+    //Mensaje
+    void DestroyGameObject()
 	{
-        //TODO 1 destruir usando el SpawnerMgr.
+        GameMgr.GetInstance().GetSpawnerMgr().DestroyGameObject(gameObject);
     }
  
 }

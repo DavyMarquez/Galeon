@@ -12,8 +12,9 @@ public class EnemyGenerator : MonoBehaviour
 	public int m_numEnemies = 0;
 	public GameObject[] _prefabs;
 	public float _generateRadious = 20;
-	
-	private float m_timeToLastEnemyGenerate = 0;
+
+    private SpawnerMgr m_spawnerMgr;
+    private float m_timeToLastEnemyGenerate = 0;
 	private Vector3 m_offset = new Vector3(0.5f,0.0f,0.5f);
 	//El gizmo debe estar en assets/Gizmos
 	void OnDrawGizmos() 
@@ -25,7 +26,8 @@ public class EnemyGenerator : MonoBehaviour
 	protected void Start () 
 	{
 		m_timeToLastEnemyGenerate = m_timeToGenerateS;
-	}
+        m_spawnerMgr = GameMgr.GetInstance().GetSpawnerMgr();
+    }
 	
 	// Update is called once per frame
 	protected void Update(){
@@ -42,6 +44,10 @@ public class EnemyGenerator : MonoBehaviour
             //Par instanciarlo usamos el SpawnerMgr. Si lo usamos podremos utilizar el pool de objetos precargados
             //lo que nos ayudara a reducir la fragmentacio nde memoria.
             ///TODO 1 instanciar usando el spawnerMGr.
+
+            Quaternion rotation = new Quaternion();
+            GameObject enemy = m_spawnerMgr.CreateNewGameObject(_prefabs[0], position, rotation);
+            
         }
     }
 	

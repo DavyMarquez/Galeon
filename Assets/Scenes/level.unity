@@ -207,7 +207,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 1.83672e-40, z: -1.14e-42, w: 6.6e-44}
+  m_BoundingSphereOverride: {x: 5.354e-42, y: 1.05e-43, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -276,11 +276,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 10800000, guid: 096bc62522816db4db4b6756583f1926, type: 3}
       propertyPath: m_BoundingSphereOverride.y
-      value: NaN
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 10800000, guid: 096bc62522816db4db4b6756583f1926, type: 3}
       propertyPath: m_BoundingSphereOverride.z
-      value: -1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 10800000, guid: 096bc62522816db4db4b6756583f1926, type: 3}
       propertyPath: m_BoundingSphereOverride.w
@@ -385,7 +385,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: NaN, y: 5e-44, z: 2.296e-41, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -476,7 +476,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 1.83672e-40, z: -3.11e-43, w: 9.57e-43}
+  m_BoundingSphereOverride: {x: 0, y: 35.89383, z: 3.8143554, w: 110.37673}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -567,7 +567,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1e-45, y: 1.7e-43, z: 2.2959e-41, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: 23.09283, z: 3.3243556, w: 148.63774}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -867,7 +867,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 9.18356e-40, z: -2.26e-43, w: 1.134e-42}
+  m_BoundingSphereOverride: {x: 0, y: 6.5428305, z: 3.8143554, w: 138.68773}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -958,7 +958,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: NaN, y: 2.89e-43, z: 6.8877e-41, w: 0}
+  m_BoundingSphereOverride: {x: -1.09e-42, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -1049,7 +1049,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 5.51014e-40, z: -2.26e-43, w: 1.131e-42}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 3.666e-42, w: 6e-44}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -1146,7 +1146,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: NaN, y: 4.08e-43, z: 4.5918e-41, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 3.67e-42, w: 6e-44}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -1237,7 +1237,7 @@ Light:
   m_BounceIntensity: 1.23
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 9.1837e-41, z: -1.177e-42, w: 3.006e-42}
+  m_BoundingSphereOverride: {x: 0, y: 39.24283, z: 2.9643555, w: 87.11773}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -1328,7 +1328,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1.7077771e+19, y: 4.5245357e+30, z: 3654.5896, w: 11408.832}
+  m_BoundingSphereOverride: {x: 0, y: 2.2815765e+21, z: 8.73e-43, w: 3.85e-43}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -1419,7 +1419,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1.7757e-41, y: NaN, z: 4.662e-42, w: 5.7779074e-34}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 3.684e-42, w: 6e-44}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -1510,10 +1510,16 @@ Light:
   m_BounceIntensity: 0
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 9.404242e-38, w: 7.9639e-41}
+  m_BoundingSphereOverride: {x: 0, y: 4.2728305, z: 3.8543553, w: 96.95773}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!1 &1230236795 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 00b71462953c2ee4b94a5fb4532c4016,
+    type: 3}
+  m_PrefabInstance: {fileID: 1631588537}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1239525512
 GameObject:
   m_ObjectHideFlags: 0
@@ -1601,7 +1607,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1.35e-43, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: NaN, y: 2.4302662e+21, z: 8.73e-43, w: 3.85e-43}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -1662,6 +1668,7 @@ GameObject:
   - component: {fileID: 1336320968}
   - component: {fileID: 1336320969}
   - component: {fileID: 1336320966}
+  - component: {fileID: 1336320967}
   m_Layer: 0
   m_Name: level
   m_TagString: Untagged
@@ -1709,6 +1716,23 @@ MonoBehaviour:
   m_menuSceneName: game_menu
   m_type: 0
   m_clearReturnScene: 0
+--- !u!114 &1336320967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1336320964}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d86e88b5296b1664a908a18aeffd455a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_objectCache:
+  - prefab: {fileID: 1750623994}
+    cacheSize: 2
+  - prefab: {fileID: 1230236795}
+    cacheSize: 2
 --- !u!114 &1336320968
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1733,6 +1757,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ff39add0dc73964a8ac2003836fb650, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  WayPointTag: Waypoint
+  _buildNavigationMapAutomatic: 0
 --- !u!1 &1351235314
 GameObject:
   m_ObjectHideFlags: 0
@@ -1820,7 +1846,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 2.35e-43, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: -16.68717, z: 2.9643555, w: 112.79773}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -1911,7 +1937,7 @@ Light:
   m_BounceIntensity: 2.03
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1, y: 0, z: 0, w: 5.2e-44}
+  m_BoundingSphereOverride: {x: NaN, y: 2.3391865e+21, z: 8.73e-43, w: 3.85e-43}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -2008,7 +2034,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: NaN, y: NaN, z: 1.415e-42, w: 1.417e-42}
+  m_BoundingSphereOverride: {x: 0, y: 9.24283, z: 3.1943555, w: 82.577736}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -2113,6 +2139,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 00b71462953c2ee4b94a5fb4532c4016, type: 3}
+--- !u!1 &1750623994 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 7628826a8b14df8448a8c3c72c22f286,
+    type: 3}
+  m_PrefabInstance: {fileID: 555501505}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1768801723
 GameObject:
   m_ObjectHideFlags: 0
@@ -2200,7 +2232,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1.7219e-41, y: 0, z: 0, w: 3.5e-44}
+  m_BoundingSphereOverride: {x: 2.75508e-40, y: 2.2638368e+21, z: 8.73e-43, w: 3.85e-43}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -2297,7 +2329,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: -0.00034964798, y: 0, z: 0, w: -0.015215501}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 6.4285e-40, w: -1.14e-43}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -2451,8 +2483,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: -0.0000000041176302, y: -0.21346799, z: -0.21346699,
-    w: 0.97695005}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 3.726e-42, w: 6e-44}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -2465,6 +2496,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2035016572}
+  - component: {fileID: 2035016573}
   m_Layer: 0
   m_Name: Spawner01
   m_TagString: Untagged
@@ -2486,6 +2518,26 @@ Transform:
   m_Father: {fileID: 1336320965}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2035016573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2035016571}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62be07bc67f1a0a4098c2d509b9b75ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_icon: Electric_Generator_icon.png
+  m_timeToGenerateS: 10
+  m_numMaxEnemies: 20
+  m_numEnemies: 0
+  _prefabs:
+  - {fileID: 100000, guid: 00b71462953c2ee4b94a5fb4532c4016, type: 3}
+  - {fileID: 100000, guid: 7628826a8b14df8448a8c3c72c22f286, type: 3}
+  _generateRadious: 5
 --- !u!1 &2036154945
 GameObject:
   m_ObjectHideFlags: 0
